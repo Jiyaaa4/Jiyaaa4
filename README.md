@@ -11,3 +11,7 @@ This repository is for learning GitHub and version control. I will be adding Pyt
 
 ## How to Use  
 1. Clone the repository:
+Open the files and explore.  
+
+## Contact  
+💬 Feel free to connect with me!
